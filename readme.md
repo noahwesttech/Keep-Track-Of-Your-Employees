@@ -6,7 +6,7 @@ I WANT to be able to view and manage the departments, roles, and employees in my
 SO THAT I can organize and plan my business
 
 ## Installation
-Clone the repository from GitHub. This app requires Node.js, Inquirer, Express, and mysql12. Start application by running 'npm start.' To view database from MySQL, type 'run mysql -u root -p'
+Clone the repository from GitHub. This app requires Node.js, Inquirer, console.table package and mysql12.
 
 ## Usage
 This application will allow users to view, add, and edit their employees, edit their roles and departments, and their managers.
